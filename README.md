@@ -1,7 +1,7 @@
 
 # CRUD App
 
-![CRUD](https://raw.githubusercontent.com/ControlAltTea/CRUD/main/images/crudapp.gif?token=GHSAT0AAAAAABWT7UCMWFX2GQJN27FUPN4OYW4KFSQ)
+(https://raw.githubusercontent.com/ControlAltTea/CRUD/main/images/crudapp.gif?token=GHSAT0AAAAAABWT7UCMWFX2GQJN27FUPN4OYW4KFSQ)
 
 I created a  "User Management" system to log fake (or APPLICABLE!) user information to a MongoDB cluster.
 
